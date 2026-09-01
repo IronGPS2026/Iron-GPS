@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "titleDefault": "IRON GPS — Integral mobility management",
+    "titleTemplate": "%s · IRON GPS",
+    "description": "IRON GPS turns the data from your vehicles and assets into control, security and decisions. Tracking, telemetry, video and electronic protection in one platform. Operating in Colombia.",
+    "ogAlt": "IRON GPS — Control, monitoring and security for vehicles, fleets and assets"
+  },
+  "nav": {
+    "solutions": "Solutions",
+    "platform": "Platform",
+    "technology": "Technology",
+    "sectors": "Industries",
+    "about": "About",
+    "clients": "Client access",
+    "cta": "Request advisory",
+    "menu": "Menu",
+    "close": "Close"
+  },
+  "topbar": {
+    "live": "Platform live",
+    "demo": "Request demo",
+    "portal": "Client access"
+  },
+  "hero": {
+    "eyebrow": "Location · Data · Video · Sensors · Control · Security",
+    "titleA": "Don't just know ",
+    "titleHl1": "where",
+    "titleB": " your fleet is. Control ",
+    "titleHl2": "what's happening",
+    "titleC": " across your whole operation.",
+    "lead": "Tracking, telemetry, video and electronic security in one platform — with installation, support and guidance included. Stop just knowing where your fleet is and start controlling what happens with it.",
+    "cta1": "Request advisory",
+    "cta2": "Explore the solutions",
+    "trust": "Free, no-commitment advisory · Local support in Colombia",
+    "vizActive": "Assets online",
+    "vizTemp": "Cold chain",
+    "vizFuel": "Fuel today",
+    "vizIdle": "idling",
+    "vizAlert": "geofence alert"
+  },
+  "trust": {
+    "items": [
+      "Enterprise-grade platform",
+      "iOS and Android apps",
+      "Installation and support included",
+      "Local support in Colombia"
+    ]
+  },
+  "capabilities": {
+    "eyebrow": "More than tracking",
+    "title": "We turn each vehicle's signal into tools to run your operation.",
+    "sub": "It's not just a dot on the map. Every asset generates data; IRON GPS turns it into visibility, control and response.",
+    "items": [
+      { "icon": "pin", "title": "Tracking", "desc": "Real-time and historical location for every asset." },
+      { "icon": "shield", "title": "Security", "desc": "Geofences, alerts and control over events." },
+      { "icon": "pulse", "title": "Telemetry", "desc": "Door, fuel, temperature and more sensors." },
+      { "icon": "user", "title": "Drivers", "desc": "Driving behavior and driver identification." },
+      { "icon": "route", "title": "Routes", "desc": "Planning, compliance and optimization." },
+      { "icon": "wrench", "title": "Maintenance", "desc": "Preventive by engine-hours, km or time." },
+      { "icon": "video", "title": "Video", "desc": "Dashcam, cabin and on-demand evidence." },
+      { "icon": "bell", "title": "Alerts", "desc": "Custom notifications per event." },
+      { "icon": "chart", "title": "Reports", "desc": "70+ reports and exportable dashboards." },
+      { "icon": "box", "title": "Asset management", "desc": "Vehicles, machinery and high-value equipment." }
+    ]
+  },
+  "solutions": {
+    "eyebrow": "IRON portfolio",
+    "title": "Four solutions, one ecosystem.",
+    "sub": "Scale from a single vehicle to a full fleet. Each solution activates the capabilities your operation needs — without paying for what you don't use.",
+    "pageTitle": "Solutions",
+    "pageIntro": "IRON GPS launches with four deliberately focused solutions, grouped into two lines: IRON FLEET, for intelligence and control of commercial fleets; and IRON SECURITY, for electronic protection of higher-risk assets.",
+    "lineFleet": "IRON FLEET",
+    "lineSecurity": "IRON SECURITY",
+    "lineFleetDesc": "Intelligence and control for commercial fleets. Turns vehicle data into actionable information: route compliance, usage, driver behavior and fuel and cargo control.",
+    "lineSecurityDesc": "Electronic protection for mobile assets. Combines physical security with telematics and IoT: location informs, control acts and prior validation reduces risk.",
+    "includes": "Includes",
+    "items": [
+      {
+        "line": "fleet", "name": "IRON TRACK",
+        "who": "Small fleets · entry",
+        "desc": "The starting point: real-time location, geofences, basic alerts and reports to start taking control of your operation.",
+        "tags": ["GPS", "Real time", "Geofences", "Basic alerts", "Reports"]
+      },
+      {
+        "line": "fleet", "name": "IRON CONTROL",
+        "who": "Companies running operations",
+        "desc": "Advanced GPS with door, fuel and temperature sensors, driver identification and custom alerts.",
+        "tags": ["Sensors", "Fuel", "Temperature", "Driver", "Custom alerts"]
+      },
+      {
+        "line": "fleet", "name": "IRON VISION",
+        "who": "Commercial fleets",
+        "desc": "Video telematics: dashcam and cabin camera, on-demand video and risky-driving event detection.",
+        "tags": ["Dashcam", "Cabin camera", "ADAS / DMS", "On-demand video"]
+      },
+      {
+        "line": "security", "name": "IRON SECURE",
+        "who": "Higher-risk vehicles & cargo",
+        "desc": "Electronic protection: GPS + door sensor + lock + solenoid + controller + panic button, with response procedures.",
+        "tags": ["Lock", "Panic button", "Prior validation", "Procedures"]
+      }
+    ]
+  },
+  "platform": {
+    "eyebrow": "All-in-one platform",
+    "title": "Everything you can manage with IRON GPS",
+    "sub": "One platform to control your vehicles, your operation and your security. Turn on what you need today and add more as you grow.",
+    "pageTitle": "Platform",
+    "pageIntro": "IRON GPS brings together everything you need to run your operation in one platform: location, video, sensors, security, productivity, logistics, maintenance and data. These are the available capabilities.",
+    "groups": [
+      {
+        "icon": "pin",
+        "title": "Tracking & monitoring",
+        "items": ["Real-time and historical location", "iOS & Android mobile app", "Multi-asset monitoring wall", "Trip playback and detailed trip reports"]
+      },
+      {
+        "icon": "shield",
+        "title": "Security & protection",
+        "items": ["Geofences and event-based alerts", "Engine cut / lock with prior validation", "Panic button and response procedures", "24/7 monitoring center", "Security rounds and access control"]
+      },
+      {
+        "icon": "video",
+        "title": "Smart video",
+        "items": ["Dashcam and cabin camera", "ADAS/DMS: fatigue, distraction & identity", "Live and on-demand video", "Evidence for incidents and insurers"]
+      },
+      {
+        "icon": "pulse",
+        "title": "Telemetry & sensors",
+        "items": ["Fuel control and analysis", "Cold chain (temperature)", "Door, humidity and more sensors", "CAN / OBD compatibility"]
+      },
+      {
+        "icon": "user",
+        "title": "Drivers & productivity",
+        "items": ["Driving scoring (speed, braking, idling)", "Driver identification", "Productive states and time control", "Field task and staff management"]
+      },
+      {
+        "icon": "route",
+        "title": "Routes & logistics",
+        "items": ["Route planning and optimization", "Deliveries confirmed by QR / geolocation", "Dispatch and compliance control", "Copilot for difficult routes and areas"]
+      },
+      {
+        "icon": "wrench",
+        "title": "Maintenance & documents",
+        "items": ["Preventive maintenance by km, hours or time", "Service orders and expense control", "Document expirations: insurance, inspection, licenses", "Alerts to avoid fines and penalties"]
+      },
+      {
+        "icon": "api",
+        "title": "Data & integrations",
+        "items": ["70+ exportable reports (PDF / Excel)", "Custom dashboards", "REST API and web services", "Integrations with ERP / CRM, WhatsApp and RNDC", "White-label app with your logo in the stores"]
+      }
+    ]
+  },
+  "sectors": {
+    "eyebrow": "By type of operation",
+    "title": "What do you need to manage?",
+    "sub": "Pick your operation and build a solution to fit. The same platform adapts to a personal vehicle or a national fleet.",
+    "pageTitle": "Industries",
+    "pageIntro": "IRON GPS adapts to different types of operation. These are the categories where the platform delivers the most value — the same technology, configured for your case.",
+    "seeSolution": "See solution",
+    "items": [
+      { "icon": "car", "slug": "vehiculos-particulares", "title": "Personal vehicles", "desc": "Protect your car and always know where it is and what's happening." },
+      { "icon": "truck", "slug": "flotas-de-carga", "title": "Cargo fleets", "desc": "Route compliance, fuel and cargo control." },
+      { "icon": "van", "slug": "vehiculos-comerciales", "title": "Commercial vehicles", "desc": "Productivity and control for delivery and service." },
+      { "icon": "building", "slug": "flotas-empresariales", "title": "Enterprise fleets", "desc": "Visibility and decisions for large operations." },
+      { "icon": "logistics", "slug": "transporte-logistica", "title": "Transport & logistics", "desc": "Routes, deliveries and end-to-end evidence." },
+      { "icon": "machine", "slug": "activos-maquinaria", "title": "Assets & machinery", "desc": "Locate and control high-value equipment, with or without GPS." }
+    ]
+  },
+  "security": {
+    "eyebrow": "Security",
+    "title": "More visibility. Better response to events.",
+    "sub": "Security isn't an absolute promise: it's fewer blind spots and more reaction capacity. IRON combines location, sensors, video and — in the SECURITY line — electronic control with prior validation.",
+    "callout": "Responsible approach: we increase visibility and response capacity to events. We don't promise to prevent 100% of thefts — we work so that, when something happens, you know first and can act.",
+    "features": [
+      { "title": "Real-time tracking", "desc": "Live location of every asset, always in view." },
+      { "title": "Geofences & alerts", "desc": "Define zones and get notified when something leaves the expected." },
+      { "title": "Driving behavior", "desc": "Detect speeding, harsh braking and risky habits." },
+      { "title": "Historical data", "desc": "Reconstruct trips and events with evidence." }
+    ],
+    "dbResponse": "Response time",
+    "dbMoving": "En route",
+    "dbStopped": "Stopped",
+    "dbAlert": "Geofence"
+  },
+  "efficiency": {
+    "eyebrow": "Operational efficiency",
+    "title": "Turn your vehicles' data into decisions for your business.",
+    "sub": "Every kilometer, stop and engine-hour is information. IRON organizes it so you see where time and money are lost — and where there's room to save.",
+    "features": [
+      { "title": "Vehicle utilization", "desc": "See which assets perform and which are underused." },
+      { "title": "Time & idling", "desc": "Spot stops, idling and avoidable downtime." },
+      { "title": "Smarter routes", "desc": "Compare planned vs. actual and adjust." },
+      { "title": "Savings opportunities", "desc": "Turn data into decisions that cut costs." }
+    ],
+    "km": "Km / asset · wk",
+    "idle": "Avoidable idling",
+    "util": "Fleet utilization"
+  },
+  "technology": {
+    "eyebrow": "Technology",
+    "title": "Enterprise-grade infrastructure, presented simply.",
+    "sub": "IRON GPS runs on a robust, scalable platform, with native apps, homologated hardware and open architecture to integrate with what your company already uses.",
+    "pageTitle": "Technology",
+    "pillars": [
+      { "icon": "platform", "title": "Platform", "desc": "Flexible, scalable tracking software for any industry." },
+      { "icon": "apps", "title": "Apps", "desc": "Native iOS & Android apps: monitor and act from your phone." },
+      { "icon": "hardware", "title": "Hardware", "desc": "Over 1,000 homologated devices from multiple manufacturers." },
+      { "icon": "api", "title": "Integrations", "desc": "REST API and web services to connect with your systems." }
+    ],
+    "stats": [
+      { "value": 1200, "suffix": "+", "label": "homologated devices from multiple manufacturers" },
+      { "value": 70, "suffix": "+", "label": "reports ready to run your fleet" }
+    ],
+    "statApi": "API",
+    "statApiUnit": " REST",
+    "statApiLabel": "open architecture for integrations",
+    "statApps": "iOS",
+    "statAppsUnit": " · Android",
+    "statAppsLabel": "native apps to monitor from anywhere",
+    "layersTitle": "How it all connects: a 5-layer architecture",
+    "layersSub": "Every IRON solution is built by combining five layers. Understanding this logic helps place where each need sits in the process.",
+    "layers": [
+      { "name": "Visibility", "desc": "GPS, cameras, sensors, telemetry — what's happening." },
+      { "name": "Intelligence", "desc": "Analytics, rules and data cross-checks — what it means." },
+      { "name": "Control", "desc": "Relays, controllers and remote commands — what we can act on." },
+      { "name": "Protection", "desc": "Locks and panic buttons — how we reduce physical risk." },
+      { "name": "Response", "desc": "Procedures, escalation and evidence — what we do on an event." }
+    ]
+  },
+  "service": {
+    "eyebrow": "End-to-end service",
+    "title": "One solution. One single partner.",
+    "sub": "IRON doesn't just hand you a device: it walks with you end to end. Technology + implementation + support, under one responsibility.",
+    "steps": [
+      { "title": "Diagnosis", "desc": "We understand your operation and its risk." },
+      { "title": "Solution design", "desc": "We pick hardware and modules for your case." },
+      { "title": "Installation", "desc": "Fitting and homologation of every device." },
+      { "title": "Setup", "desc": "Geofences, alerts, rules and procedures." },
+      { "title": "Training", "desc": "Your team learns to use the platform." },
+      { "title": "Monitoring", "desc": "Continuous tracking of your assets." },
+      { "title": "Support", "desc": "Assistance whenever you need it." },
+      { "title": "Evolution", "desc": "We scale the solution as you grow." }
+    ]
+  },
+  "why": {
+    "eyebrow": "Why IRON GPS",
+    "title": "Real difference, not clichés.",
+    "sub": "We exist to close a concrete gap: many companies have GPS, but no control. Here's what sets us apart.",
+    "pageTitle": "Why IRON GPS",
+    "items": [
+      { "k": "01", "title": "Enterprise technology", "desc": "Robust, scalable platform — without the complexity for the user." },
+      { "k": "02", "title": "One single partner", "desc": "Diagnosis, installation, support and evolution under one roof." },
+      { "k": "03", "title": "Integral solution", "desc": "We don't sell a device: we integrate location, data, video and control." },
+      { "k": "04", "title": "Flexible & scalable", "desc": "From one vehicle to a national fleet, without starting over." },
+      { "k": "05", "title": "Data-driven", "desc": "We turn information into decisions, not just maps." },
+      { "k": "06", "title": "Built for Colombia", "desc": "Close to your operation, with a long-term vision." }
+    ]
+  },
+  "faq": {
+    "title": "Frequently asked questions",
+    "items": [
+      { "q": "What vehicles and assets can I manage?", "a": "Personal, commercial and cargo vehicles, transport, enterprise fleets, machinery and high-value assets — with or without GPS via BLE technology." },
+      { "q": "Does IRON GPS work for small businesses?", "a": "Yes. IRON TRACK is designed as an entry point for a few vehicles, and the solution scales as you grow." },
+      { "q": "Can I manage a large fleet?", "a": "Yes. The platform is scalable and ready for operations with many assets and users." },
+      { "q": "Can I see my vehicles in real time?", "a": "Yes, from the web platform and the native iOS and Android apps." },
+      { "q": "Can I get alerts and review history?", "a": "Yes. You set event-based alerts and review trips and historical data whenever you need." },
+      { "q": "Can I manage different vehicle types at once?", "a": "Yes. A single account can combine vehicles, fleets and assets of different types." },
+      { "q": "Will it alert me when insurance or inspection expires?", "a": "Yes. The platform manages document expirations (insurance, technical inspection, licenses) and alerts you in advance to avoid fines and penalties." },
+      { "q": "Can I control fuel?", "a": "Yes. With the right sensors you can analyze consumption and detect possible losses or siphoning, even across multiple tanks." },
+      { "q": "Do you offer 24/7 monitoring?", "a": "Yes. We have a monitoring center, event response procedures and evidence, plus security rounds and access control." },
+      { "q": "Does the solution work in Colombia?", "a": "Yes. IRON GPS operates in Colombia and supports your operation locally." },
+      { "q": "Can I request a demonstration?", "a": "Of course. Request an advisory session or demo and we'll show the solution for your case." }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Start today",
+    "title": "Your operation already generates data. Now turn it into decisions.",
+    "sub": "Tell us what you need to manage and we'll show you exactly how IRON GPS can help. No commitment.",
+    "btn1": "Talk to an advisor",
+    "btn2": "Request a demo",
+    "note": "Free, no-commitment advisory · We reply by WhatsApp or call"
+  },
+  "footer": {
+    "tagline": "Smart management for vehicles, fleets and assets. Control, monitoring and security in one platform.",
+    "nav": "Navigation",
+    "solutions": "Solutions",
+    "contact": "Contact",
+    "rights": "All rights reserved",
+    "privacy": "Privacy policy",
+    "terms": "Terms & conditions",
+    "country": "Colombia"
+  },
+  "whatsapp": {
+    "float": "Message us on WhatsApp"
+  },
+  "form": {
+    "title": "Request your advisory",
+    "sub": "Leave your details and an advisor will contact you to design a solution to fit. No commitment: we'll help you choose well, even if you don't buy today.",
+    "name": "Name",
+    "company": "Company",
+    "role": "Role",
+    "email": "Corporate email",
+    "phone": "WhatsApp / Phone",
+    "city": "City",
+    "vehicles": "Number of vehicles",
+    "vehiclesSelect": "Select a range",
+    "vehicleType": "Vehicle type",
+    "vehicleTypeSelect": "Select an option",
+    "manage": "What do you need to manage?",
+    "message": "Message",
+    "optional": "optional",
+    "submit": "I want an advisory",
+    "submitting": "Sending…",
+    "successTitle": "Thank you! We received your request.",
+    "successBody": "An IRON GPS advisor will contact you very soon. If you prefer, you can also reach us on WhatsApp.",
+    "errorTitle": "We couldn't send your request.",
+    "errorBody": "Please try again or reach us directly on WhatsApp.",
+    "orWhatsapp": "or reach us on WhatsApp",
+    "requiredNote": "Fields marked * are required.",
+    "vehicleTypes": ["Personal vehicle", "Commercial vehicles", "Cargo / transport", "Machinery / assets", "Mixed"]
+  },
+  "pages": {
+    "about": {
+      "title": "About",
+      "eyebrow": "About",
+      "heading": "We were born to close the gap between having GPS and having control.",
+      "intro": "Today most companies with GPS know where their vehicle is, but not whether it's being used well, whether there's risk of loss, or whether a driver has risky behaviors. That's the gap IRON GPS exists to close.",
+      "purposeTitle": "Purpose",
+      "purpose": "Give people and companies integral control over their vehicles, fleets and assets — not just a dot on the map.",
+      "visionTitle": "Vision",
+      "vision": "To be the reference technology partner for smart mobility management in Colombia, with a long-term vision.",
+      "pillarsTitle": "What we stand on",
+      "pillars": [
+        { "title": "Technology", "desc": "Enterprise-grade platform, robust and scalable." },
+        { "title": "Service", "desc": "Real end-to-end support." },
+        { "title": "Innovation", "desc": "Location, data, video and control in constant evolution." },
+        { "title": "Partnership", "desc": "One partner responsible for the whole solution." }
+      ],
+      "valueTitle": "The proposition in one phrase",
+      "valuePhrase": "Location + Data + Video + Sensors + Control + Security"
+    },
+    "demo": {
+      "title": "Request demo / advisory",
+      "eyebrow": "Demo & advisory",
+      "heading": "See exactly how IRON GPS can help your operation.",
+      "intro": "Book an advisory session or a demo. We'll show you the platform with a case similar to yours and answer your questions — no commitment.",
+      "bullets": [
+        "Quick diagnosis of your operation",
+        "Solution recommendation (TRACK, CONTROL, VISION or SECURE)",
+        "Demo of the platform and apps",
+        "Answers to technical and commercial questions"
+      ]
+    },
+    "contact": {
+      "title": "Contact",
+      "eyebrow": "Contact",
+      "heading": "Let's talk about your operation.",
+      "intro": "Reach us through your preferred channel. We reply fast.",
+      "whatsappTitle": "WhatsApp",
+      "whatsappDesc": "The fastest way to resolve questions and book.",
+      "whatsappBtn": "Message on WhatsApp",
+      "emailTitle": "Commercial email",
+      "portalTitle": "Already a client?",
+      "portalDesc": "Log in to the platform to monitor your assets.",
+      "portalBtn": "Client access",
+      "locationTitle": "Coverage",
+      "locationDesc": "We operate in Colombia."
+    },
+    "privacy": {
+      "title": "Privacy policy",
+      "eyebrow": "Legal",
+      "updated": "Last updated",
+      "intro": "This policy describes how IRON GPS handles personal data collected through this website. This is a base text and must be reviewed by legal counsel before final publication.",
+      "sections": [
+        { "h": "1. Data controller", "p": "IRON GPS is responsible for the processing of personal data collected on this site. The controller's contact details are those indicated in the contact section." },
+        { "h": "2. Data we collect", "p": "We collect the data you voluntarily provide through our forms (name, company, role, email, phone, city and details of your operation), as well as technical browsing data via analytics tools." },
+        { "h": "3. Purpose", "p": "We use your data to contact you, provide commercial advice, send you information about our solutions and improve the site experience." },
+        { "h": "4. Your rights", "p": "You may request access, update, rectification or deletion of your data, as well as revoke consent, by reaching us through the contact channels." },
+        { "h": "5. Cookies and analytics", "p": "This site may use cookies and analytics tools to measure site usage. You can set your browser to reject them." }
+      ]
+    },
+    "terms": {
+      "title": "Terms & conditions",
+      "eyebrow": "Legal",
+      "updated": "Last updated",
+      "intro": "These terms govern the use of this website. This is a base text and must be reviewed by legal counsel before final publication.",
+      "sections": [
+        { "h": "1. Purpose", "p": "This site is for informational and commercial purposes about IRON GPS solutions. Using the site implies acceptance of these terms." },
+        { "h": "2. Intellectual property", "p": "The trademarks, logos and content on this site belong to IRON GPS or their respective owners and may not be used without authorization." },
+        { "h": "3. Information and availability", "p": "We strive to keep information accurate and up to date, but it may change without notice. The features described depend on the contracted solution." },
+        { "h": "4. Liability", "p": "IRON GPS will not be liable for damages arising from the use of the site or the inability to access it." },
+        { "h": "5. Governing law", "p": "These terms are governed by the laws of the Republic of Colombia." }
+      ]
+    }
+  },
+  "common": {
+    "backHome": "Back to home",
+    "exploreSolutions": "Explore the solutions",
+    "requestAdvisory": "Request advisory",
+    "illustrative": "Illustrative view",
+    "allSectors": "See all industries",
+    "relatedSolutions": "Recommended solutions"
+  }
+}
