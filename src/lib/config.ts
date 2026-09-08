@@ -13,7 +13,7 @@ export const siteConfig = {
   whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '573003383042',
 
   // Contacto
-  contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'comercial@iron-gps.com',
+  contactEmail: process.env.NEXT_PUBLIC_CONTACT_EMAIL || 'comercial1@iron-gps.com',
   contactPhone: process.env.NEXT_PUBLIC_CONTACT_PHONE || '+57 300 338 3042',
 
   // Portal de clientes (plataforma de rastreo).
