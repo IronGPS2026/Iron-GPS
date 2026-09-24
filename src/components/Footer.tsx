@@ -37,10 +37,11 @@ export function Footer({ locale }: { locale: string }) {
           <div>
             <h5>{t('solutions')}</h5>
             <ul>
-              <li><Link href="/soluciones">IRON TRACK</Link></li>
-              <li><Link href="/soluciones">IRON CONTROL</Link></li>
-              <li><Link href="/soluciones">IRON VISION</Link></li>
-              <li><Link href="/soluciones">IRON SECURE</Link></li>
+              <li><Link href="/soluciones">IRON Track</Link></li>
+              <li><Link href="/soluciones">IRON Fleet</Link></li>
+              <li><Link href="/soluciones">IRON View</Link></li>
+              <li><Link href="/soluciones">IRON Fuel</Link></li>
+              <li><Link href="/soluciones">IRON Inspect</Link></li>
             </ul>
           </div>
 
