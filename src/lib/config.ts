@@ -18,8 +18,7 @@ export const siteConfig = {
 
   // Portal de clientes (plataforma de rastreo).
   clientPortalUrl:
-    process.env.NEXT_PUBLIC_CLIENT_PORTAL_URL || 
-'https://app.iron-gps.com',
+    process.env.NEXT_PUBLIC_CLIENT_PORTAL_URL || 'https://hub.iron-gps.com',
 
   // Analytics (vacío = desactivado).
   gaMeasurementId: process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID || 'G-477X5PCBHB',
