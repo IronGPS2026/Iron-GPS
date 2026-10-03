@@ -45,12 +45,6 @@ export function Header({ locale }: { locale: string }) {
           </span>
           <div className="tb-right">
             <Link href="/contacto">{tb('demo')}</Link>
-            <Link
-              href="/login"
-              onClick={() => trackEvent('client_portal_click')}
-            >
-              {tb('portal')}
-            </Link>
           </div>
         </div>
       </div>
@@ -74,14 +68,16 @@ export function Header({ locale }: { locale: string }) {
 
           <div className="hd-cta">
             <LanguageSwitcher />
-            <Link
-              href="/login"
+            <a
+              href={siteConfig.clientPortalUrl}
+              target="_blank"
+              rel="noopener noreferrer"
               className="client-access desktop-only"
               onClick={() => trackEvent('client_portal_click')}
             >
               <Icon name="lock" width={15} height={15} />
               {t('clients')}
-            </Link>
+            </a>
             <Link
               href="/demo"
               className="btn btn-primary desktop-only"
@@ -103,7 +99,7 @@ export function Header({ locale }: { locale: string }) {
         {links.map((l) => (
           <Link key={l.href} href={l.href} className="mlink" onClick={() => setOpen(false)}>{l.label}</Link>
         ))}
-        <Link href="/login" className="mlink" onClick={() => setOpen(false)}>{t('clients')}</Link>
+        <a href={siteConfig.clientPortalUrl} target="_blank" rel="noopener noreferrer" className="mlink" onClick={() => setOpen(false)}>{t('clients')}</a>
         <Link href="/demo" className="btn btn-primary btn-lg" style={{ marginTop: 18 }} onClick={() => setOpen(false)}>{t('cta')}</Link>
       </aside>
 
