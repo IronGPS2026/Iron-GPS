@@ -9,7 +9,7 @@ export const siteConfig = {
   domain: 'iron-gps.com',
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://www.iron-gps.com',
 
-  // WhatsApp: número internacional sin "+" ni espacios (ej: 573000000000).
+  // WhatsApp: número internacional sin "+" ni espacios (ej: 573XXXXXXXXX).
   whatsappNumber: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || '573003383042',
 
   // Contacto
